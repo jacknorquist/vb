@@ -34,4 +34,10 @@ Module SimpleArray
          Console.WriteLine($"Students in {grade}: {students(ctr)}")
       Next
    End Sub
+
+   Public Function second()
+
+      Dim yes As Boolean = False
+
+   End Function
 End Module
